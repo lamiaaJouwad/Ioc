@@ -2,7 +2,7 @@
 
 
 <h5> 1. Créer l'interface IDao avec une méthode getDate</h5>
-<img src="Captures/Capture1.png.png">
+<img src="Captures/Capture1.png">
 <h5>2. Créer une implémentation de cette interface</h5>
 <img src="Captures/capture2.png">
 <h5>3. Créer l'interface IMetier avec une méthode calcul</h5>
